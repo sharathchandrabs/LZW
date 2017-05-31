@@ -42,6 +42,4 @@ The total number of unique character sequences generated must be less than or eq
 Contact Information:
 --------------------
 
-Name: Sharath Chandra Bagur Suryanarayanaprasad
-Student ID: 800974802
-EmailID: sbagursu@uncc.edu
+Name: Sharath Chandra BS
